@@ -4,7 +4,7 @@ Template repository for Home Assistant Custom Component
 
 Change "hass_template" and "hass_cc_template" in all files and direcory names to appropriate name
 
-[![hass_template](https://img.shields.io/github/v/release/astrandb/hass_cc_template)](https://github.com/astrandb/hass_cc_template/releases/latest) [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration) ![Validate with hassfest](https://github.com/astrandb/hass_cc_template/workflows/Validate%20with%20hassfest/badge.svg) ![Maintenance](https://img.shields.io/maintenance/yes/2021.svg) [![hass_template_downloads](https://img.shields.io/github/downloads/astrandb/hass_cc_template/total)](https://github.com/astrandb/hass_cc_template)
+[![hass_template](https://img.shields.io/github/v/release/astrandb/hass_cc_template)](https://github.com/astrandb/hass_cc_template/releases/latest) [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration) ![Validate with hassfest](https://github.com/astrandb/hass_cc_template/workflows/Validate%20with%20hassfest/badge.svg) ![Maintenance](https://img.shields.io/maintenance/yes/2022.svg) [![hass_template_downloads](https://img.shields.io/github/downloads/astrandb/hass_cc_template/total)](https://github.com/astrandb/hass_cc_template)
 
 # hass_template Integration for Home Assistant
 
